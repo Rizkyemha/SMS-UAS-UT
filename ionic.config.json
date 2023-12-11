@@ -1,0 +1,7 @@
+{
+  "name": "sms_app_ut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
